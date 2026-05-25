@@ -25,16 +25,6 @@ A modern and responsive React project that automatically changes background imag
 
 ---
 
-## 📸 Preview
-
-Add your project screenshots or GIFs here.
-
-```md
-![Preview](your-image-link)
-```
-
----
-
 ## 📂 Folder Structure
 
 ```bash
